@@ -439,6 +439,7 @@
  
  .hero-description {
    font-size: 1.25rem;
+   text-align: justify;
    color: #6b7280;
    margin-bottom: 2rem;
    line-height: 1.8;
@@ -799,6 +800,7 @@
    color: #6b7280;
    line-height: 1.8;
    margin-bottom: 1.5rem;
+   text-align: justify;
  }
  
  .achievements-grid {
